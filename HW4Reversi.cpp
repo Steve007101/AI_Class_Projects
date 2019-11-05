@@ -5,10 +5,11 @@ Assignment: Homework 4 Reversi Alpha-Beta Search w/Heuristic
 Date: 3/7/2019
 
 Summary: Uses board.txt to read board and writes to move.txt to determine next move.
-	7 layers seems to be the best trade-off for speed and success
-	Plays to the end, doesn't make illegal moves.
-	Beats ReversiFL 10/10 times playing as White or Black.
-	Beats greedy 6/10 times playing as Black, 4/10 as White.
+	 I have attached a folder with Instrutor provided programs to use this with.
+	 7 layers seems to be the best trade-off for speed and success
+	 Plays to the end, doesn't make illegal moves.
+	 Beats ReversiFL 10/10 times playing as White or Black.
+	 Beats greedy 6/10 times playing as Black, 4/10 as White.
 
 
 
