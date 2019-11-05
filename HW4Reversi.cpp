@@ -5,7 +5,9 @@ Assignment: Homework 4 Reversi Alpha-Beta Search w/Heuristic
 Date: 3/7/2019
 
 Summary: Uses board.txt to read board and writes to move.txt to determine next move.
-	 I have attached a folder with Instrutor provided programs to use this with.
+	 This was used with an instructor provided interface and several other playing
+	 agents such as "ReversiFL" and "greedy".
+	 
 	 7 layers seems to be the best trade-off for speed and success
 	 Plays to the end, doesn't make illegal moves.
 	 Beats ReversiFL 10/10 times playing as White or Black.
